@@ -1,3 +1,3 @@
-module.exprot = {
+module.exports = {
   extends: ["@commitlint/config-conventional"],
 };
